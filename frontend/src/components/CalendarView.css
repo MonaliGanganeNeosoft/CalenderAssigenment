@@ -1,0 +1,41 @@
+/* CalendarView.css */
+.event-content {
+  display: flex;
+  align-items: center;
+}
+
+.event-title {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.event-actions {
+  margin-left: auto;
+}
+
+.edit-btn {
+  color: green;
+}
+
+.delete-btn {
+  color: red;
+}
+
+.calendar-modal .modal-title {
+  margin: 10px;
+  color: red;
+  font-family: fantasy;
+  border-bottom: 3px solid black;
+}
+
+.modal-body {
+  margin: 10px;
+}
+
+.form-control {
+  margin-bottom: 5px;
+}
+
+.submit-btn {
+  margin-top: 20px;
+}
